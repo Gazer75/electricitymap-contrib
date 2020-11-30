@@ -1223,7 +1223,7 @@
       "hydro storage": 0,
       "nuclear": 0,
       "oil": 1478,
-      "solar": 205.317,
+      "solar": 214,
       "wind": 155
     },
     "contributors": [
@@ -3405,6 +3405,13 @@
         42.3202595078
       ]
     ],
+    "capacity": {
+      "coal": 824,
+      "gas": 251,
+      "hydro": 506,
+      "nuclear": 0,
+      "wind": 35
+    },
     "parsers": {
       "consumption": "ENTSOE.fetch_consumption",
       "consumptionForecast": "ENTSOE.fetch_consumption_forecast",
